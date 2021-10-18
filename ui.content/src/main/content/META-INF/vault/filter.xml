@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/teslawebsite" mode="merge"/>
+    <filter root="/content/teslawebsite" mode="merge"/>
+    <filter root="/content/dam/teslawebsite" mode="merge"/>
+</workspaceFilter>
